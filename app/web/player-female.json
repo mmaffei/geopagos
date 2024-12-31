@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "gender": "female",
+    "name": "Gabriela Sabbatini",
+    "skill_level": "78",
+    "skill_strength": "40",
+    "skill_reaction": "65",
+    "ranking": "3",
+    "age": "31"
+  },
+  {
+    "id": 2,
+    "gender": "female",
+    "name": "Serena Williams",
+    "skill_level": "91",
+    "skill_strength": "87",
+    "skill_reaction": "94",
+    "ranking": "1",
+    "age": "32"
+  },
+  {
+    "id": 3,
+    "gender": "female",
+    "name": "Steffi Graf",
+    "skill_level": "70",
+    "skill_strength": "58",
+    "skill_reaction": "50",
+    "ranking": "8",
+    "age": "31"
+  },
+  {
+    "id": 4,
+    "gender": "female",
+    "name": "Martina Navratilova",
+    "skill_level": "99",
+    "skill_strength": "91",
+    "skill_reaction": "50",
+    "ranking": "2",
+    "age": "20"
+  },
+  {
+    "id": 5,
+    "gender": "female",
+    "name": "Monica Seles",
+    "skill_level": "79",
+    "skill_strength": "78",
+    "skill_reaction": "91",
+    "ranking": "5",
+    "age": "29"
+  },
+  {
+    "id": 6,
+    "gender": "female",
+    "name": "Martina Hingis",
+    "skill_level": "83",
+    "skill_strength": "24",
+    "skill_reaction": "40",
+    "ranking": "4",
+    "age": "39"
+  },
+  {
+    "id": 7,
+    "gender": "female",
+    "name": "Justine Henin",
+    "skill_level": "45",
+    "skill_strength": "90",
+    "skill_reaction": "88",
+    "ranking": "12",
+    "age": "32"
+  },  
+  {
+    "id": 8,
+    "gender": "female",
+    "name": "Margaret Court",
+    "skill_level": "77",
+    "skill_strength": "87",
+    "skill_reaction": "60",
+    "ranking": "19",
+    "age": "41"
+  }
+]
