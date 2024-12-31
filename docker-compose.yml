@@ -1,0 +1,18 @@
+version: '3'
+
+services:
+  app:
+    build:
+      context: ./
+      dockerfile: ./dockerfile
+      args: 
+        - HOST_ID= ${HOST_ID} 
+    ports:
+      - '80:80'
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    volumes:
+        - './app:/var/www/html/'
+    environment:
+      XDEBUG_CONFIG:  idekey=VSCODE client_host=host.docker.internal  client_port=9003 mode=debug start_with_request=yes
+      XDEBUG_MODE: debug
